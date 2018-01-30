@@ -19,7 +19,7 @@ Every API request must contain ```API Key``` in header value ```X-THIRDWATCH-API
 ## Installation
 Put the package under your project folder and add the following in import:
 ```
-    "./ai-thirdwatch"
+    "./ai_thirdwatch"
 ```
 
 ## Documentation for API Endpoints
@@ -94,6 +94,5 @@ Class | Method | HTTP request | Description
 
 
 ## Author
-
 
 
